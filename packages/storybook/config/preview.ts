@@ -1,7 +1,7 @@
 import '@timeblockr/design-tokens/dist/index.css';
 import '@timeblockr/font/src/index.scss';
-import { defineCustomElements } from '@timeblockr/web-components-stencil/loader/index.js';
 import type { Preview } from '@storybook/react';
+import { defineCustomElements } from '@timeblockr/web-components-stencil/loader/index.js';
 import { ParametersArgsDecorator } from './ParametersArgsDecorator';
 
 defineCustomElements();

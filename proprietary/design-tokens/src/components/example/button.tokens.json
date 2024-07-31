@@ -1,8 +1,8 @@
 {
   "timeblockr": {
     "button": {
-      "background-color": { "value": "{timeblockr.color.blue.50}" },
-      "color": { "value": "{timeblockr.color.grey.100}" }
+      "background-color": { "value": "{timeblockr.color.orange.50}" },
+      "color": { "value": "{timeblockr.color.grey.10}" }
     }
   }
 }

@@ -1,11 +1,12 @@
 {
   "timeblockr": {
     "color": {
-      "blue": {
-        "50": { "value": "cornflowerblue" }
+      "orange": {
+        "50": { "value": "#f48239" }
       },
       "grey": {
         "100": { "value": "white" },
+        "10": { "value": "#021a22" },
         "0": { "value": "black" }
       }
     }

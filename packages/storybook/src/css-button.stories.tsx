@@ -1,7 +1,7 @@
 /* @license CC0-1.0 */
 
-import readme from '@timeblockr/components-css/button/README.md?raw';
 import type { Meta, StoryObj } from '@storybook/react';
+import readme from '@timeblockr/components-css/button/README.md?raw';
 import { PropsWithChildren } from 'react';
 import '@timeblockr/components-css/button/index.scss';
 
