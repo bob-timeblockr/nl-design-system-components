@@ -14,4 +14,4 @@ export const Button = forwardRef(
   },
 );
 
-Button.displayName = 'Button';
+Button.displayName = 'Timeblockr Button';
